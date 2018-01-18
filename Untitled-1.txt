@@ -1,0 +1,26 @@
+lokasi ada 13
+1.gedung A,B,D,E
+2.Darmawanita
+3.masjid
+4.GEdung Gradika
+5.Puri Gedeh
+6.Rinjani
+7.Wahidin
+8.Wisper
+9.VIP room A yani
+10. gedung PKK ungaran
+
+revisi
+    laporan
+    1.tambah from input
+    bagian
+    sub bagian/ lain2
+    2.asset dihapus 
+    
+    2.pelaporan by phone diinputkan oleh admin 
+    
+    3.unit penanganan dibuat pilihan
+    
+    konsumsi
+    + master  koordinator 2 orang
+    + master petugas petugas pengantar
